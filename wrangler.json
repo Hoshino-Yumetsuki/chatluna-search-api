@@ -1,7 +1,7 @@
 {
-	"name": "<TBD>",
+	"name": "chatluna-search-api",
 	"main": "src/index.ts",
-	"compatibility_date": "<TBD>",
+	"compatibility_date": "2025-02-06",
 	"observability": {
 		"enabled": true
 	}
