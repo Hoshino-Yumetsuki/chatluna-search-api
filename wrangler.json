@@ -4,5 +4,11 @@
 	"compatibility_date": "2025-02-06",
 	"observability": {
 		"enabled": true
-	}
+	},
+    "routes": [
+    {
+      "pattern": "csapi.yumetsuki.moe",
+      "custom_domain": true
+    }
+  ]
 }
