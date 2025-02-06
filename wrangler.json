@@ -5,10 +5,10 @@
 	"observability": {
 		"enabled": true
 	},
-    "routes": [
-    {
-      "pattern": "csapi.yumetsuki.moe",
-      "custom_domain": true
-    }
-  ]
+	"routes": [
+		{
+			"pattern": "csapi.yumetsuki.moe",
+			"custom_domain": true
+		}
+	]
 }
